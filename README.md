@@ -1,0 +1,52 @@
+# SOTA (BE:FIRST) – Chill with you ~One of the BE:ST-04 SOTA~
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Oh I'm feeling love
+思いを抱きしめて
+溢れる Love
+波のように届ける
+Everything for you
+I wanna be with you
+I'm feeling love
+潮風に揺れ揺れる Chill with you
+Happiness comes in waves yah
+君がくれたこのbest take
+涙で気付いた愛でmovin' on
+100%で躓いて
+好きがなにかわからなくなって
+その先で待つのは結局は君だったんだ
+味のないビート
+救ってくれたジャクソンズ=ヒーロー
+夢を抱いてる君に必ず会いに行くと誓った
+Oh I'm feeling love
+思いを抱きしめて
+溢れる Love
+波のように届ける
+Everything for you
+I wanna be with you
+I'm feeling love
+潮風に揺れ揺れる Chill with you
+バカンスなんていらねぇ
+365 is my holiday
+Dance like the sun 好き勝手
+yeah yeah yeah yeah yeah yeah yeah yeah
+ここはリゾート 君の理想
+聞かせてよ 準備はいいかい? all right
+ありがとな I can see it now 約束した
+あの浜bay で乾杯
+太陽とSunrise
+Sea breeze の香り忘れない
+夢を抱いてる僕と必ず会いに来ると誓って
+Oh I'm feeling love
+溢れる Love
+Oh I'm feeling love
+思いを抱きしめて
+溢れる Love
+波のように届ける
+Everything for you
+I wanna be with you
+I'm feeling love
+潮風に揺れ揺れる Chill with you
+```
