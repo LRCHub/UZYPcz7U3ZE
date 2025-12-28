@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Chill with you ~One of the BE:ST-04 SOTA~",
+  "base_artist": "SOTA (BE:FIRST)",
+  "createdAt": "2025-12-28T16:27:04.347161Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chill with you ～One of the BE:ST-04 SOTA～",
+      "artist": "SOTA (BE:FIRST)",
+      "has_synced": false,
+      "path": "select/pl_01_Chill_with_you_~One_of_the_BE_ST-04_SOTA~_SOTA_(BE_FIRST).txt"
+    }
+  ]
+}
